@@ -1,9 +1,26 @@
 # ΕΠΙΚΟΙΝΩΝΙΑ ΑΝΘΡΩΠΟΥ-ΥΠΟΛΟΓΙΣΤΗ
-### Ονοματεπώνυμο: Γκουλιώνης Βασίλειος
-### Αριθμός μητρώου: Π2019024
-### Github: [VasilisG11](https://github.com/VasilisG11)
-### E-mail: p19gkou@ionio.gr
+### *Ονοματεπώνυμο*: Γκουλιώνης Βασίλειος
+### *Αριθμός μητρώου*: Π2019024
+### *E-mail*: p19gkou@ionio.gr
+### *Github*: [VasilisG11](https://github.com/VasilisG11)
 
+<br>
+<hr>
+
+### Οργανισμός: [WeAreCooked](https://github.com/WeAreKindaCooked)
+### Νέα μέλη δεκτά: ΝΑΙ
+
+<br>
+
+| # | Ονοματεπώνυμο | ΑΜ | Profile |
+| --- | --- | --- | --- |
+| 1 | Γκουλιώνης Βασίλειος | Π2019024 | [VasilisG11](https://github.com/VasilisG11) |
+| 2 | Νικόλας Νάτσος | inf2023144 | [YGNT7777](https://github.com/YGNT7777) |
+
+<hr>
+<br>
+
+# Πίνακας παραδοτέων
 | Εβδομάδα | [Όλα τα παραδοτέα βρίσκονται στην ίδια σελίδα της τελικής αναφοράς](https://courses-ionio.github.io/help/deliverables/) με τα προσωπικά στοιχεία σας (Όνομα, ΑΜ, github profile) και μαζί με αυτόν εδώ τον πίνακα περιεχομένων | Σύνδεσμος στην [εβδομαδιαία παρουσίαση προόδου στις συζητήσεις](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) | Αυτοαξιολόγηση σύμφωνα με τα κριτήρια της αντίστοιχης άσκησης |
 | --- | --- | --- | --- |
 | 1 |  [Δημιουργία ομάδας](https://github.com/courses-ionio/hci/discussions/1794) + [Φορκ και δημιουργία σελίδας τελικής αναφοράς](https://courses-ionio.github.io/help/guide/), [προσθήκη πίνακα περιεχομένων](https://raw.githubusercontent.com/courses-ionio/hci/master/README.md), [συγγραφή της εισαγωγής](https://courses-ionio.github.io/help/intro/), αποστολή της εισαγωγής [για σχολιασμό στην συζήτηση](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) και καταγραφή του συνδέσμου συζήτησης δίπλα --> | [Συζήτηση 1](https://github.com/courses-ionio/hci/discussions/2003) | Δημιουργήθηκε ομάδα και συντάχθηκε η είσαγωγη εγκαίρως |
