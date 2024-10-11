@@ -60,6 +60,10 @@
 
 Όσον αφορά την εγκατάσταση του λειτουργικού Arch, είναι η τρίτη φορά που το κάνω και η διαδικασία μου φάνηκε σχετικά απλή, με τη βοήθεια του [installation guide](https://wiki.archlinux.org/title/Installation_guide) στο επίσημο site των Arch κατάφερα να την ολοκληρώσω σε λιγότερο απο μισή ώρα. Επέλεξα το GNOME desktop environment για γραφικό περιβάλλον και στη συνέχεια κατέβασα και το Guake όπου είναι ένα απλό drop-down terminal emulator για ευκολότερη πρόσβαση και διαχείρηση του τερματικού. Η εγκατάσταση πραγματοποιήθηκε σε ένα στικάκι χωριτικότητας 32GB.
 
+### Πρόβλημα με το GRUB loader
+
+Όταν ξανά προσπάθησα να κάνω boot στα arch μου, ο υπολογιστής μου δεν αναγνώριζε το στικακι όπου πραγματοποίησα την εγκατάσταση ως bootable media και αναγκάστηκα να μπώ στο live environment και μέσω chroot να κάνω configure το GRUB ώστε να αναγνωρίζει το στικακι ώς removable media. η διαδικασία ήταν απλή καθώς έπρεπε να εγκαταστήσω πάλι το GRUB αλλα μαζι με το tag **"--removable"**. Έπειτα απο το reboot όλα κύλισαν ομαλά και προς το παρόν δεν υπάρχει κάποιο αλλο πρόβλημα με την εγκατάσταση.
+
 <br>
 
-[![asciicast](https://asciinema.org/a/q6dcJI4M1Kf5sWtqTvU6rwb7O.svg)](https://asciinema.org/a/q6dcJI4M1Kf5sWtqTvU6rwb7O)
+[![asciicast](https://asciinema.org/a/mDKBF3r4A99TxFIhS24LvTjRo.svg)](https://asciinema.org/a/mDKBF3r4A99TxFIhS24LvTjRo)
