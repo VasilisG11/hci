@@ -16,6 +16,8 @@
 | --- | --- | --- | --- |
 | 1 | Γκουλιώνης Βασίλειος | Π2019024 | [VasilisG11](https://github.com/VasilisG11) |
 | 2 | Νικόλας Νάτσος | inf2023144 | [YGNT7777](https://github.com/YGNT7777) |
+| 3 | Θώδης Πατάπιος | inf2023062 | [AkisThUni](https://github.com/AkisThUni) |
+| 4 | Ιωάννης Μπαμπλέκης | inf2021153 | [GiannisBab](https://github.com/GiannisBab) |
 
 <hr>
 <br>
